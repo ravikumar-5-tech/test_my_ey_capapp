@@ -10,7 +10,7 @@ gen/
 node_modules/
 target/
 
-# Web IDE, App Studio
+# Web IDE, App Studio...
 .che/
 .gen/
 
